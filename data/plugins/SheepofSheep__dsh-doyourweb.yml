@@ -2,5 +2,5 @@ url: https://github.com/SheepofSheep/dsh-doyourweb
 name: SheepofSheep/dsh-doyourweb
 category: browser
 description:
-  en: 'Reference logged-in Chrome/Edge tabs with @ for reading, batched actions, screenshots and supported WebMCP tools through a paired extension; collect element annotations in chat drafts with a draggable toolbar, and select running or installed Windows apps with icons for background MCP/CLI calls or on-demand launch through Cua Driver desktop control.'
-  zh: '通过配对扩展用 @ 引用已登录的 Chrome / Edge 页面，读取、批量操作、截图并调用支持的 WebMCP 工具；拖动批注浮窗，积累多条批注到聊天草稿后统一发送，用 @ 选择带图标的运行中或已安装 Windows 应用，经批准后后台调用 MCP/CLI，或按需启动并通过 Cua Driver 操作。'
+  en: 'Reference logged-in Chrome/Edge tabs with @ for reading, batched actions, screenshots and supported WebMCP tools through a paired extension; collect element annotations in chat drafts with a draggable toolbar, and select running or installed Windows apps with icons for background MCP/CLI calls or on-demand launch through Cua Driver desktop control. Version 0.1.4 fixes slash menu loading so later command, context and skill sources can load.'
+  zh: '通过配对扩展用 @ 引用已登录的 Chrome / Edge 页面，读取、批量操作、截图并调用支持的 WebMCP 工具；拖动批注浮窗，积累多条批注到聊天草稿后统一发送，用 @ 选择带图标的运行中或已安装 Windows 应用，经批准后后台调用 MCP/CLI，或按需启动并通过 Cua Driver 操作。0.1.4 修复 / 菜单加载中断，后续指令、context 和技能来源可正常加载。'
